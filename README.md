@@ -3,5 +3,15 @@
 Generate random color
 
 ```bash
-TODO:
+TODO: add an output program
+```
+
+```bash
+$ node index.js
+
+TODO: add an output program
+```
+
+```bash
+TODO: add an output program
 ```
