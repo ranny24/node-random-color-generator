@@ -1,4 +1,4 @@
-# Node.js Random Color Generator
+# node-random-color-generator
 
 Generate random color
 
